@@ -1,6 +1,6 @@
 # Bot and Missile Physics in Unity
 
-## Build can be downloaded from here.
+## Build can be downloaded from [here](./build.zip).
 
 ## Keybinds
 
